@@ -1,5 +1,5 @@
-# Online_examing_system
-An online examing system witch can anti cheating.
+# Online_exam_system
+An online exam system witch can anti cheating.
 ## Environment
 JDK 8u60  
 Tomcat 8  
