@@ -7,12 +7,9 @@ An online exam system witch can anti cheating.
     MySQL  
 
 ## Screenshots
-![1](http://7xqs4g.com1.z0.glb.clouddn.com/images/exam/1.png)
-![2](http://7xqs4g.com1.z0.glb.clouddn.com/images/exam/2.png)
-![3](http://7xqs4g.com1.z0.glb.clouddn.com/images/exam/3.png)
-![4](http://7xqs4g.com1.z0.glb.clouddn.com/images/exam/4.png)
-![5](http://7xqs4g.com1.z0.glb.clouddn.com/images/exam/5.png)
-![6](http://7xqs4g.com1.z0.glb.clouddn.com/images/exam/6.png)
-![7](http://7xqs4g.com1.z0.glb.clouddn.com/images/exam/7.png)
-![8](http://7xqs4g.com1.z0.glb.clouddn.com/images/exam/8.png)
-![9](http://7xqs4g.com1.z0.glb.clouddn.com/images/exam/9.png)
+![1](http://image.jackeriss.com/project/Online_exam_system/1.jpg)
+![2](http://image.jackeriss.com/project/Online_exam_system/2.jpg)
+![3](http://image.jackeriss.com/project/Online_exam_system/3.jpg)
+![4](http://image.jackeriss.com/project/Online_exam_system/4.jpg)
+![5](http://image.jackeriss.com/project/Online_exam_system/5.jpg)
+
